@@ -1,5 +1,8 @@
 _repo: What-to-eat-and-when_72779
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72779-h/images/cover-back.jpg
 creator:
   author:
     agent_name: Cocroft, Susanna
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '56485'
     url: http://www.gutenberg.org/2009/agents/56485
 description: 'Previously published under title: Foods: nutrition and digestion.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72779#What-to-eat-and-when
 edition_note: 4th edition with additions and revisions to date.
 gutenberg_issued: '2024-01-25'
 gutenberg_type: Text
